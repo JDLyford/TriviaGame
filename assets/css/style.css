@@ -1,0 +1,54 @@
+.container {
+    width: 100%;
+    background-color: aqua;
+    border: 4px solid coral;
+}
+
+.header {
+    border-bottom: 4px solid coral;
+    text-align: center;
+    font-family: 'Lucida Sans';
+}
+
+.about {
+    border-bottom: 2px solid coral;
+}
+
+h2 {
+    margin-left: 10rem;
+    font-size: 1.2rem;
+}
+
+p {
+    margin-left: 10rem;
+}
+
+.quiz {
+    margin-left: 10rem;
+}
+
+table {
+    border: 1px solid grey;
+}
+
+th {
+    border: 1px solid grey;
+    font-size: 2rem;
+}
+
+td {
+    font-size: 1.5rem;
+    border: 1px solid grey;
+}
+
+.results {
+    border-top: 2px solid coral;
+}
+
+h3 {
+    margin-left: 10rem;
+}
+
+.start {
+    margin-left: 10rem;
+}
